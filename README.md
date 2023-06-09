@@ -7,3 +7,4 @@
   - Consumer Price Index for All Urban Consumers: All Items in San Francisco-Oakland-Hayward, CA : [CPI, CBSA](https://fred.stlouisfed.org/series/CUURA422SA0)
   - Consumer Price Index for All Urban Consumers: All Items in U.S. City Average : [CPI](https://fred.stlouisfed.org/series/CPIAUCSL)
   - Real GDP : [GDP](https://fred.stlouisfed.org/series/GDPC1)
+  - S&P500: [SP500](https://fred.stlouisfed.org/series/SP500)
